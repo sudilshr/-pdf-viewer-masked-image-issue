@@ -16,6 +16,7 @@
             "outputPath": "dist/pdf-viewer-masked-image-issue",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "tsConfig": "tsconfig.json",
             "assets": [
               "src/favicon.ico",
               "src/assets",
